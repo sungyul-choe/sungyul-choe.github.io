@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ### Relative Link Test
-[Child Page](pages/20190814.md)
+[Child Page](pages/2019/08/19/TestPage.md)
